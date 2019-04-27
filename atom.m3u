@@ -1,0 +1,314 @@
+#EXTM3U
+
+#EXTINF:0 tvg-name="*Beware of scams*Our service is free of cost.*" tvg-language="English" tvg-country="US" tvg-id="Beware of scams. Our service is free of cost." tvg-logo="http://www.vernonhills.org/images/pages/N688/Scam-Alert.png" group-title="Top10",*Beware of scams*Our service is free of cost.* (Top10) (US) (English)
+https://archive.org/download/cCloud_20151126/cCloud.mp4
+
+#EXTINF:0 tvg-name="*Property of cCloudTV.ORG*" tvg-language="English" tvg-country="US" tvg-id="Property of cCloudTV.ORG" tvg-logo="http://media.comicbook.com/2015/09/baneposter2-by-sysmatic-149962.jpg" group-title="Top10",*Property of cCloudTV.ORG* (Top10) (US) (English)
+https://archive.org/download/cCloud_20151126/cCloud.mp4
+
+#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 04-27-2019 10:04:58 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 04-27-2019 10:04:58 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
+https://archive.org/download/cCloud_20151126/cCloud.mp4
+
+#EXTINF:0 tvg-name="BBC World News" tvg-language="Arabic" tvg-country="UK" tvg-id="BBC World News" tvg-logo="https://yt3.ggpht.com/-Em-drWQ3uYI/AAAAAAAAAAI/AAAAAAAAAAA/b-RZ1gDQAIc/s100-c-k-no/photo.jpg" group-title="News",BBC World News (News) (UK) (Arabic)
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+#EXTINF:0 tvg-name="Beto TV" tvg-language="English" tvg-country="US" tvg-id="BETO tv" tvg-logo="http://www.userlogos.org/files/logos/14505_deva/ccloud1.png" group-title="Lifestyle",Beto TV (Lifestyle) (US) (English)
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:0 tvg-name="BYU TV" tvg-language="English" tvg-country="US" tvg-id="BYU TV" tvg-logo="http://www.byutv.org/Content/images/logo-grayscale.png" group-title="Lifestyle",BYU TV (Lifestyle) (US) (English)
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/master.m3u8
+
+#EXTINF:0 tvg-name="Cnc3" tvg-language="English" tvg-country="TT" tvg-id="Cnc3" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs7bMoD5c7mf0WvrxdL8e3KrSoeCTQdIFF1dZwYo-SSjyaLNV1oZ5yMw" group-title="Entertainment",Cnc3 (Entertainment) (TT) (English)
+rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
+
+#EXTINF:0 tvg-name="Digi 24" tvg-language="English" tvg-country="RO" tvg-id="Digi 24" tvg-logo="http://www.freeetv.com/images/03_logo/digi_24_romania.jpg" group-title="News",Digi 24 (News) (RO) (English)
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+
+#EXTINF:0 tvg-name="Florida Ch" tvg-language="English" tvg-country="US" tvg-id="Florida Ch" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png" group-title="Lifestyle",Florida Ch (Lifestyle) (US) (English)
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+
+#EXTINF:0 tvg-name="Juce tv" tvg-language="English" tvg-country="US" tvg-id="Juce tv" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuLo0Wd_LZUYMA6hZIYNOXv09VhIHyz_xCGNd2oZ36UH5Rlft1WkB8pOE" group-title="Family",Juce tv (Family) (US) (English)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+
+#EXTINF:0 tvg-name="QVC HD" tvg-language="English" tvg-country="US" tvg-id="QVC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQG5dc8YoNhjkW6UWP5yCrReR0ItZIa2gxx3kbRBQrfl17H7XyajQLa78" group-title="Entertainment",QVC HD (Entertainment) (US) (English)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+
+#EXTINF:0 tvg-name="Smile of a Child" tvg-language="English" tvg-country="US" tvg-id="Smile of a Child" tvg-logo="http://www.impressivemedia.net/wp-content/uploads/2014/08/SOAC-e1409462705810.png" group-title="Family",Smile of a Child (Family) (US) (English)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+
+#EXTINF:0 tvg-name="TBN salsa" tvg-language="English" tvg-country="US" tvg-id="TBN salsa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jhrj9Mvl2VaIw6wxqHDvbk4Me5K6rYmKMwQz8AKNoGu7Eh6KotNKRLA" group-title="Family",TBN salsa (Family) (US) (English)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN11a_delivery@332897/master.m3u8
+
+#EXTINF:0 tvg-name="The Weather Channel" tvg-language="English" tvg-country="US" tvg-id="The Weather Channel" tvg-logo="http://s.w-x.co/240x180_twc_default.png" group-title="News",The Weather Channel (News) (US) (English)
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:0 tvg-name="The church channel" tvg-language="English" tvg-country="US" tvg-id="The church channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRmzPHGpiaiYDDaZhxe-YD5uDH0_gXLc1qkdKc_QDOK27CM3nosbkPQ" group-title="Family",The church channel (Family) (US) (English)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
+
+#EXTINF:0 tvg-name="i24 News" tvg-language="English" tvg-country="US" tvg-id="i24 News" tvg-logo="http://cdn.i24news.tv/bundles/i24newsfront/img/logo.png" group-title="News",i24 News (News) (US) (English)
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:0 tvg-name="How to Sweep in Ccloud" tvg-language="English" tvg-country="US" tvg-id="How to Sweep in Ccloud" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Tutorials",How to Sweep in Ccloud (Tutorials) (US) (English)
+https://archive.org/download/chchelp/sweepers%20updated.mp4
+
+#EXTINF:0 tvg-name="How to Upload Tokens to Ccloud Git" tvg-language="English" tvg-country="US" tvg-id="How to Upload Tokens to Ccloud Git" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Tutorials",How to Upload Tokens to Ccloud Git (Tutorials) (US) (English)
+https://archive.org/download/ccloudgit/ccloudgit.mp4
+
+#EXTINF:0 tvg-name="How to test RTMP links in cCloud database" tvg-language="English" tvg-country="US" tvg-id="How to test RTMP links in cCloud database" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Tutorials",How to test RTMP links in cCloud database (Tutorials) (US) (English)
+https://archive.org/download/rtmptesting/rtmp%20testing.mp4
+
+#EXTINF:0 tvg-name="What is cCloud TV" tvg-language="English" tvg-country="US" tvg-id="What is cCloud TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-IbOWD3KY4AFGBiOuNEHEIwtKmIRTSw9UIPETXhlSnxmrlVVqgF6x0c" group-title="Tutorials",What is cCloud TV (Tutorials) (US) (English)
+https://archive.org/download/WhatIsCcloud/what%20is%20ccloud.mp4
+
+#EXTINF:0 tvg-name="Al Jazeera America" tvg-language="English" tvg-country="US" tvg-id="Al Jazeera America" tvg-logo="http://pmcdeadline2.files.wordpress.com/2014/07/al-jazeera-america-logo.jpeg" group-title="Test",Al Jazeera America (Test) (US) (English)
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
+#EXTINF:0 tvg-name="Enlace" tvg-language="Spanish" tvg-country="US" tvg-id="Enlace" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKTMfNIHblt64CfT683IgPJpxMitG92cPr0_ENRDqVNSMrexUXv4Q1Kg" group-title="Family",Enlace (Family) (US) (Spanish)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+
+#EXTINF:0 tvg-name="One Channel" tvg-language="Arabic" tvg-country="US" tvg-id="One Channel" tvg-logo="https://ash.ms/barstool/tv-channel-icons/icons-plain-plain/png/one.png" group-title="Sports",One Channel (Sports) (US) (Arabic)
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+
+#EXTINF:0 tvg-name="1HD" tvg-language="Spanish" tvg-country="US" tvg-id="1HD" tvg-logo="http://www.tv14.net/wp-content/uploads/2013/09/1HD-logo.jpg" group-title="Music",1HD (Music) (US) (Spanish)
+http://spb1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+
+#EXTINF:0 tvg-name="Aloft 2014" tvg-language="English" tvg-country="US" tvg-id="Aloft 2014" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjAyMzY2MTAxOF5BMl5BanBnXkFtZTgwOTQwOTEzNTE@._V1_SX214_AL_.jpg" group-title="OnDemandMovies",Aloft 2014 (OnDemandMovies) (US) (English)
+https://lh3.googleusercontent.com/MbzpYy0VnYO4rzNv%5F9RHex9JMfidY8z7KH0F%5FwIv44g%3Dm18
+
+#EXTINF:0 tvg-name="Charming Christmas 2015" tvg-language="English" tvg-country="US" tvg-id="Charming Christmas 2015" tvg-logo="http://watch32movies.net/wp-content/uploads/2015/11/Charming-Christmas-2015.jpg" group-title="OnDemandMovies",Charming Christmas 2015 (OnDemandMovies) (US) (English)
+https://lh3.googleusercontent.com/XcpRwoh%5F4QQOY22JzuCrX7hao7iJO%5FhifeAvIsZDXJE%3Dm18
+
+#EXTINF:0 tvg-name="If I Stay 2014" tvg-language="Spanish" tvg-country="US" tvg-id="If I Stay 2014" tvg-logo="http://bookfandoms.com/wp-content/uploads/2014/06/if-i-stay-poster-movie.jpg" group-title="OnDemandMovies",If I Stay 2014 (OnDemandMovies) (US) (Spanish)
+http://www.spruto.tv/get_file/2/9b10b5eba7e38b030f5f43c791232e01/89000/89860/89860.mp4
+
+#EXTINF:0 tvg-name="Room 2015" tvg-language="English" tvg-country="US" tvg-id="Room 2015" tvg-logo="http://snapandtip.com/wp-content/uploads/2015/10/room31.jpg" group-title="OnDemandMovies",Room 2015 (OnDemandMovies) (US) (English)
+https://2.bp.blogspot.com/G%2Dcl2FHGUoWAd8kjFsI3QeJ0Qm9lsfWOzNQ%5Fv8gCHJI%3Dm18
+
+#EXTINF:0 tvg-name="Sleeping With Other People 2015" tvg-language="English" tvg-country="US" tvg-id="Sleeping With Other People 2015" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTUyMzQwNjEyNV5BMl5BanBnXkFtZTgwMzYwMzgwNjE@._V1_SX214_AL_.jpg" group-title="OnDemandMovies",Sleeping With Other People 2015 (OnDemandMovies) (US) (English)
+https://2.bp.blogspot.com/ESTWhwUlC4GEbPBlvNa1MO71bVYUxacjP0Gg80P5l%5FM%3Dm18
+
+#EXTINF:0 tvg-name="The Culling 2015" tvg-language="English" tvg-country="US" tvg-id="The Culling 2015" tvg-logo="http://www.moviexk.net/wp-content/uploads/2015/06/the-culling-2015.jpg" group-title="OnDemandMovies",The Culling 2015 (OnDemandMovies) (US) (English)
+http://2.bp.blogspot.com/P7yzLED6hz3pZP3duQWSLlHojzbVHA23UVg_HNjC8hE=m18
+
+#EXTINF:0 tvg-name="X2 2003" tvg-language="English" tvg-country="US" tvg-id="X2 2003" tvg-logo="https://horrorpediadotcom.files.wordpress.com/2014/05/x2-x-men-united-5224830831497.jpg" group-title="OnDemandMovies",X2 2003 (OnDemandMovies) (US) (English)
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+
+#EXTINF:0 tvg-name="The Walking Dead S06E08" tvg-language="English" tvg-country="US" tvg-id="The Walking Dead S06E08" tvg-logo="http://legendei.com/wp-content/uploads/2015/10/TWD.jpg" group-title="OnDemandShows",The Walking Dead S06E08 (OnDemandShows) (US) (English)
+https://2.bp.blogspot.com/jd60NSN_m87F7dLuYzUs0C8otHzMjML2OGXCnjySz9A=m18
+
+#EXTINF:0 tvg-name="Comet TV" tvg-language="English" tvg-country="US" tvg-id="Comet TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMGVemDl1jLZgLn3fBK431JitEcdhpPBA--sQZt08J_8plMoUtmJSlRA" group-title="Public-Entertainment",Comet TV (Public-Entertainment) (US) (English)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+
+#EXTINF:0 tvg-name="TBD TV" tvg-language="English" tvg-country="US" tvg-id="TBD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlwSFgpFqIJGLNuLk9F0F2iPLDEsNQj0ywd4HT4C88JhI2TN4vWuWpXA" group-title="Public-Entertainment",TBD TV (Public-Entertainment) (US) (English)
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:0 tvg-name="Jasmine tv 18+" tvg-language="English" tvg-country="US" tvg-id="Jasmine tv 18+" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Public-Adult",Jasmine tv 18+ (Public-Adult) (US) (English)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:0 tvg-name="visit x tv 18+" tvg-language="English" tvg-country="US" tvg-id="visit x tv 18+" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Public-Adult",visit x tv 18+ (Public-Adult) (US) (English)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:0 tvg-name="BUZZR (US) (English)" tvg-language="English" tvg-country="US" tvg-id="BUZZR (US) (English)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCVb6ID85LxiWckJQk8K1fklnO6-jhl3jup2AYP9NWRBGT8CPJ7p-GMo" group-title="Public-Entertainment",BUZZR (US) (English) (Public-Entertainment) (US) (English)
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
+
+#EXTINF:0 tvg-name="WFMZ Allentown" tvg-language="English" tvg-country="US" tvg-id="WFMZ Allentown" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKnlS4wpbDQkfi5KyJiITC_GBFB1vJJR2dB8g3DPBNMe_WgubeSujHMw" group-title="Public-News",WFMZ Allentown (Public-News) (US) (English)
+http://wfmz_live-lh.akamaihd.net/i/002zrxx41_1@167551/master.m3u8
+
+#EXTINF:0 tvg-name="ABC Network" tvg-language="English" tvg-country="US" tvg-id="ABC Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7NFiVwvEeo5kG2zC7H3rL_R3gys3pcx9rV7nlw4XvIRqy3Bs1U8JKig" group-title="Public-Entertainment",ABC Network (Public-Entertainment) (US) (English)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:0 tvg-name="Bloomberg News US" tvg-language="English" tvg-country="US" tvg-id="Bloomberg News US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA" group-title="Public-Entertainment",Bloomberg News US (Public-Entertainment) (US) (English)
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+
+#EXTINF:0 tvg-name="DISCOVERY CHANNEL (HD) UKMATRIX" tvg-language="English" tvg-country="US" tvg-id="DISCOVERY CHANNEL (HD) UKMATRIX" tvg-logo="https://www.dropbox.com/s/7x90isyujb1je4d/Matrix-code-finally-explained-1106738.jpg?dl=1" group-title="Public-Documentary",DISCOVERY CHANNEL (HD) UKMATRIX (Public-Documentary) (US) (English)
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:0 tvg-name="INVESTIGATION DISCOVERY (SD) UKMATRIX" tvg-language="English" tvg-country="US" tvg-id="INVESTIGATION DISCOVERY (SD) UKMATRIX" tvg-logo="https://www.dropbox.com/s/7x90isyujb1je4d/Matrix-code-finally-explained-1106738.jpg?dl=1" group-title="Public-Documentary",INVESTIGATION DISCOVERY (SD) UKMATRIX (Public-Documentary) (US) (English)
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:0 tvg-name="NBCSN" tvg-language="English" tvg-country="US" tvg-id="NBCSN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzUQpT9VaBXE4ot-R0wNWE483wsy5VgoqEn6TyPowzRSjPauA6h-40FI0" group-title="Public-Sports",NBCSN (Public-Sports) (US) (English)
+http://olyhdliveextra-vh.akamaihd.net/i/NBCU_Sports_Group_-_Ads/214/14/2018_CT6_5044345_301516734272141_%2C3%2C55%2C40%2C22%2C14%2C9%2C6%2C00k.mp4.csmil/master.m3u8?__b__=1400
+
+#EXTINF:0 tvg-name="Cheddar" tvg-language="English" tvg-country="US" tvg-id="Cheddar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgc8RUxO7_Ceaq-_Dxz5Ddxq3_l8YsF84tndNLmQpwRJ8rJUp35ri9g" group-title="Public-News",Cheddar (Public-News) (US) (English)
+https://live.chdrstatic.com/cheddar/index.m3u8
+
+#EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="US" tvg-id="Red Bull TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdx6Q9BNaPrBh69qY6eO9Bik7CMAvNHECm1KZuvyA03Nb-_oFGl5R1V4A" group-title="Public-News",Red Bull TV (Public-News) (US) (English)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+#EXTINF:0 tvg-name="WFXT 25 News Boston" tvg-language="English" tvg-country="US" tvg-id="WFXT 25 News Boston" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU3tOhoaIyjC8qJ_OjWjddzk-GMGxXDfKYzRfNhqOrxoLzZze3IpdGBw" group-title="Public-News",WFXT 25 News Boston (Public-News) (US) (English)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8
+
+#EXTINF:0 tvg-name="CSPAN" tvg-language="English" tvg-country="US" tvg-id="CSPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazE_CJXySYO5rxKknVbEUyEdnxdhlhyrF-4qPXAh5PehJAXnulf5vvw" group-title="Public-News",CSPAN (Public-News) (US) (English)
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+
+#EXTINF:0 tvg-name="CSPAN2" tvg-language="English" tvg-country="US" tvg-id="CSPAN2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJMS7OGxHotKmdTe64om0DPxN1pSaofwVYtyz3b4y5u3RKJqRJ9QiqOw" group-title="Public-News",CSPAN2 (Public-News) (US) (English)
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+
+#EXTINF:0 tvg-name="CSPAN3" tvg-language="English" tvg-country="US" tvg-id="CSPAN3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJMS7OGxHotKmdTe64om0DPxN1pSaofwVYtyz3b4y5u3RKJqRJ9QiqOw" group-title="Public-News",CSPAN3 (Public-News) (US) (English)
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+
+#EXTINF:0 tvg-name="Khon2" tvg-language="English" tvg-country="US" tvg-id="Khon2" tvg-logo="http://i.imgur.com/hAtVwOJ.png" group-title="Public-Plex-Share",Khon2 (Public-Plex-Share) (US) (English)
+http://livestream.com/accounts/1858266/events/1647828
+
+#EXTINF:0 tvg-name="ESPN NEWS" tvg-language="English" tvg-country="US" tvg-id="ESPN NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGySuTU_f1i7YRUSUy-hIEm6cXgfr6XNiv75Rt8AILoax8O_S6eYyD4fM" group-title="Public-Sports",ESPN NEWS (Public-Sports) (US) (English)
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:0 tvg-name="usef" tvg-language="English" tvg-country="NL" tvg-id="usef" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyPW8y4TjnwtGgKQKj--8QRtfwaXQk8uqa-dKJli6c-0qSa7TYfgR9o94" group-title="Public-Family",usef (Public-Family) (NL) (English)
+http://zwina.nl/test2.m3u8
+
+#EXTINF:0 tvg-name="Nat Geo Wild" tvg-language="English" tvg-country="US" tvg-id="Nat Geo Wild" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjuMUDEr3oIb9gbSDOAhD9URCgo-snmSLiyND7LipNMg-oJV2LWaUsA" group-title="Public-Documentary",Nat Geo Wild (Public-Documentary) (US) (English)
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99 /216/index.m3u8
+
+#EXTINF:0 tvg-name="ABC 7 News Chicago" tvg-language="English" tvg-country="US" tvg-id="ABC 7 News Chicago" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Ne4FVkporDgkspFEDq-VvlYVMUYVwe5OJwwfQtICoW2J7HT1BuMLTg" group-title="Public-News",ABC 7 News Chicago (Public-News) (US) (English)
+https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/WLSwatch.m3u8?tc=1&exp=1516918135247&rn=4102.605295817989&ct=c&oid=aac37e2c66614e699fb189ab391084ff&eid=WLSwatch&ad=watchwlslive&ad.kv=station%2Cwls&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=0e0731ec5433b646097a2bc9efdc9670dfb1e0b63c3f0a3b95523bca557bd63b
+
+#EXTINF:0 tvg-name="ABC 7 News San Francisco" tvg-language="English" tvg-country="US" tvg-id="ABC 7 News San Francisco" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq7WCNDrGgvyZDTbUzlsNVcFQIJoyVHHWDpP9SMl8B7FFi5dY0B0h4cE8" group-title="Public-News",ABC 7 News San Francisco (Public-News) (US) (English)
+https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/KGOwatch.m3u8?tc=1&exp=1516918017996&rn=4512.883027709904&ct=c&oid=4413701bf5a1488db55b767f8ae9d4fa&eid=KGOwatch&ad=watchkgolive&ad.kv=station%2Ckgo&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=f5f084c49d1e23c3033a0375cb5f50521ab82de0536a8a84824452c79ea86234
+
+#EXTINF:0 tvg-name="Classic TV" tvg-language="English" tvg-country="US" tvg-id="Classic TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07M9BcNd1tHeMrrrgghequsSMWs--qUUhJRDFmKXhXScAmi_KfmZKgK0" group-title="Public-RandomAirTime 24/7",Classic TV (Public-RandomAirTime 24/7) (US) (English)
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+
+#EXTINF:0 tvg-name="FOX MOVIES" tvg-language="English" tvg-country="US" tvg-id="FOX MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLD09ijL0gE-a-wLZ-SIMDgyWCALJT_QmrAJUA-J6WsMPBtswVAbxSA" group-title="Public-Movie Channels",FOX MOVIES (Public-Movie Channels) (US) (English)
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:0 tvg-name="Western 4u" tvg-language="English" tvg-country="US" tvg-id="Western 4u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_m1J-5UmO9pgxSuE9iSOsWPQ-VNl-J87bKut2TaUpZrzPXGUIN8vEQ" group-title="Public-RandomAirTime 24/7",Western 4u (Public-RandomAirTime 24/7) (US) (English)
+https://nimble.dashmedia.tv/onestudio/western4u/ playlist.m3u8
+
+#EXTINF:0 tvg-name="WSJ" tvg-language="English" tvg-country="US" tvg-id="WSJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Qv7UDKm8UzpGl_vOfPSdRqOLS3BqfYDiU_PDbFcqqDFidkB6Y1wPhg" group-title="Public-News",WSJ (Public-News) (US) (English)
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+
+#EXTINF:0 tvg-name="CBS HD" tvg-language="English" tvg-country="US" tvg-id="CBS HD" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Public-Entertainment",CBS HD (Public-Entertainment) (US) (English)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:0 tvg-name="MLB Channel" tvg-language="English" tvg-country="US" tvg-id="MLB Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJL-83vi3SlpwdEmWDJMnLInNQ1E_-BdxGVh5ImAnU1a4nNvDiV1llpY" group-title="Public-Sports",MLB Channel (Public-Sports) (US) (English)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
+
+#EXTINF:0 tvg-name="King of Queens" tvg-language="English" tvg-country="US" tvg-id="King of Queens" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARiaTNQ0Vvjcg4Lsiu5y_2YQVFqTLP908xzvpn79j9eSPNKpgT0eIvA" group-title="Public-RandomAirTime 24/7",King of Queens (Public-RandomAirTime 24/7) (US) (English)
+rtmp://192.99.38.122/app/playpath=koq2
+
+#EXTINF:0 tvg-name="RedLight HD 18+" tvg-language="English" tvg-country="US" tvg-id="RedLight HD 18+" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Public-Adult",RedLight HD 18+ (Public-Adult) (US) (English)
+http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/242/index.m3u8
+
+#EXTINF:0 tvg-name="Al Jazeera HD" tvg-language="English" tvg-country="US" tvg-id="Al Jazeera HD" tvg-logo="https://yt3.ggpht.com/-8IFpTckNBOQ/AAAAAAAAAAI/AAAAAAAAAAA/D3as0FRtFfo/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Public-Plex-Share",Al Jazeera HD (Public-Plex-Share) (US) (English)
+https://www.youtube.com/watch?v=UgJtWREOXHA
+
+#EXTINF:0 tvg-name="HBO" tvg-language="English" tvg-country="US" tvg-id="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSityGZe9_l9zg1YW-f4PgGYWmEH97aoSk1bZNZfAWA8TJBXhTyvYg2seI" group-title="Public-Entertainment",HBO (Public-Entertainment) (US) (English)
+rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019%2C0%2C0%2C185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
+
+#EXTINF:0 tvg-name="Al Jazeera HD" tvg-language="English" tvg-country="US" tvg-id="Al Jazeera HD" tvg-logo="https://yt3.ggpht.com/-8IFpTckNBOQ/AAAAAAAAAAI/AAAAAAAAAAA/D3as0FRtFfo/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Public-Plex-Share",Al Jazeera HD (Public-Plex-Share) (US) (English)
+https://www.youtube.com/watch?v=UgJtWREOXHA
+
+#EXTINF:0 tvg-name="Al Jazeera HD" tvg-language="English" tvg-country="US" tvg-id="Al Jazeera HD" tvg-logo="https://yt3.ggpht.com/-8IFpTckNBOQ/AAAAAAAAAAI/AAAAAAAAAAA/D3as0FRtFfo/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Public-Plex-Share",Al Jazeera HD (Public-Plex-Share) (US) (English)
+https://www.youtube.com/watch?v=UgJtWREOXHA
+
+#EXTINF:0 tvg-name="Dawdi" tvg-language="English/Arabic" tvg-country="US" tvg-id="Dawdi" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Public-Sports",Dawdi (Public-Sports) (US) (English/Arabic)
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index255.m3u8
+
+#EXTINF:0 tvg-name="Big Buck Bunny 2008" tvg-language="English" tvg-country="US" tvg-id="Big Buck Bunny 2008" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Public-Plex-Share",Big Buck Bunny 2008 (Public-Plex-Share) (US) (English)
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4
+
+#EXTINF:0 tvg-name="360North" tvg-language="English" tvg-country="US" tvg-id="360North" tvg-logo="https://i.imgur.com/CFHtVxO.png" group-title="Public-News",360North (Public-News) (US) (English)
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+
+#EXTINF:0 tvg-name="CBS Sports HQ" tvg-language="English" tvg-country="US" tvg-id="CBS Sports HQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVfx6T7iEMvfRxVPTON8ZpWN9gKH5k6lVRAzyKD_-TbA8JlEToG7vQVI" group-title="Public-Sports",CBS Sports HQ (Public-Sports) (US) (English)
+https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
+
+#EXTINF:0 tvg-name="POP TV" tvg-language="English" tvg-country="US" tvg-id="POP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKzAFHN0ATvetJxJmXXOewmrpvV1b90IavvE6oUzq4lLPESfrnFdElA" group-title="Public-Entertainment",POP TV (Public-Entertainment) (US) (English)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
+#EXTINF:0 tvg-name="NewsMax" tvg-language="English" tvg-country="US" tvg-id="NewsMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRrTd34lRq7Y5EUgoGU4xGi_y9T5t9L82qESV6Gip_UuQn-CJis-pCyHY" group-title="Public-News",NewsMax (Public-News) (US) (English)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:0 tvg-name="Newsy" tvg-language="English" tvg-country="US" tvg-id="Newsy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGkr_yedcOx-ppG-7Aw7pQZSX_fgM5z4vccZ2ZyM_nWLymKPUESiGfpzY" group-title="Public-News",Newsy (Public-News) (US) (English)
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+
+#EXTINF:0 tvg-name="Fashion TV" tvg-language="English" tvg-country="US" tvg-id="Fashion TV" tvg-logo="https://yt3.ggpht.com/-1PLcrYpuhT8/AAAAAAAAAAI/AAAAAAAAAAA/Sx6JJakB5Ug/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Public-Plex-Share",Fashion TV (Public-Plex-Share) (US) (English)
+https://www.youtube.com/watch?v=5LOTGK6fUUE
+
+#EXTINF:0 tvg-name="Fashion TV" tvg-language="English" tvg-country="US" tvg-id="Fashion TV" tvg-logo="https://yt3.ggpht.com/-1PLcrYpuhT8/AAAAAAAAAAI/AAAAAAAAAAA/Sx6JJakB5Ug/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Public-Plex-Share",Fashion TV (Public-Plex-Share) (US) (English)
+https://www.youtube.com/watch?v=5LOTGK6fUUE
+
+#EXTINF:0 tvg-name="Out of Focus TV" tvg-language="English" tvg-country="US" tvg-id="Out of Focus TV" tvg-logo="http://outoffocus.tv/wp-content/uploads/2017/01/ooftv-banner-v3.png" group-title="Public-Entertainment",Out of Focus TV (Public-Entertainment) (US) (English)
+http://pablogott.videocdn.scaleengine.net/pablogott-live/play/ooftv1/playlist.m3u8
+
+#EXTINF:0 tvg-name="Al Jazeera HD" tvg-language="English" tvg-country="US" tvg-id="Al Jazeera HD" tvg-logo="https://yt3.ggpht.com/-8IFpTckNBOQ/AAAAAAAAAAI/AAAAAAAAAAA/D3as0FRtFfo/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Public-Plex-Share",Al Jazeera HD (Public-Plex-Share) (US) (English)
+https://www.youtube.com/watch?v=UgJtWREOXHA
+
+#EXTINF:0 tvg-name="Al Jazeera HD" tvg-language="English" tvg-country="US" tvg-id="Al Jazeera HD" tvg-logo="https://yt3.ggpht.com/-8IFpTckNBOQ/AAAAAAAAAAI/AAAAAAAAAAA/D3as0FRtFfo/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Public-Plex-Share",Al Jazeera HD (Public-Plex-Share) (US) (English)
+https://www.youtube.com/watch?v=UgJtWREOXHA
+
+#EXTINF:0 tvg-name="Nasa TV" tvg-language="English" tvg-country="US" tvg-id="Nasa TV" tvg-logo="http://cdn-img.easyicon.net/png/11264/1126483.gif" group-title="Public-Plex-Share",Nasa TV (Public-Plex-Share) (US) (English)
+https://www.youtube.com/watch?v=wwMDvPCGeE0
+
+#EXTINF:0 tvg-name="Nasa TV" tvg-language="English" tvg-country="US" tvg-id="Nasa TV" tvg-logo="http://cdn-img.easyicon.net/png/11264/1126483.gif" group-title="Public-Plex-Share",Nasa TV (Public-Plex-Share) (US) (English)
+https://www.youtube.com/watch?v=wwMDvPCGeE0
+
+#EXTINF:0 tvg-name="MLB Network" tvg-language="English" tvg-country="US" tvg-id="MLB Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIw4rBUvRuEw8wCJFc0lAcMQIydrAWdjOl9nRuHoQ0d6cwHkHI7hHsppo" group-title="Public-Sports",MLB Network (Public-Sports) (US) (English)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
+
+#EXTINF:0 tvg-name="ESPN 2" tvg-language="English" tvg-country="US" tvg-id="ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSjeXv2LIEeWWLseU5lFBtVFbBR2JP-IBCStb_as1G6Dt-IR0SoJQAA" group-title="Public-Sports",ESPN 2 (Public-Sports) (US) (English)
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:0 tvg-name="HSN" tvg-language="English" tvg-country="US" tvg-id="HSN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkhuDZNcrKnRZg4--ttidmliSS8FZBDcIY33o0ATqu77J_1bal0qLQRw" group-title="Public-Entertainment",HSN (Public-Entertainment) (US) (English)
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+
+#EXTINF:0 tvg-name="WBND TV" tvg-language="English" tvg-country="US" tvg-id="WBND TV" tvg-logo="http://wbndtv.com/images/wbnd%20tv%20logo.png?crc=197025496" group-title="Public-RandomAirTime 24/7",WBND TV (Public-RandomAirTime 24/7) (US) (English)
+rtmp://vsn1-cdn-phx.icastcenter.com:80/WBND_TV
+
+#EXTINF:0 tvg-name="WBND TV" tvg-language="English" tvg-country="US" tvg-id="WBND TV" tvg-logo="http://wbndtv.com/images/wbnd%20tv%20logo.png?crc=197025496" group-title="Public-RandomAirTime 24/7",WBND TV (Public-RandomAirTime 24/7) (US) (English)
+rtmp://vsn1-cdn-phx.icastcenter.com:80/WBND_TV
+
+#EXTINF:0 tvg-name="Ibiza Global TV" tvg-language="English" tvg-country="US" tvg-id="Ibiza Global TV" tvg-logo="https://yt3.ggpht.com/-Mlsk9O-i790/AAAAAAAAAAI/AAAAAAAAAAA/KVjW6O5KcAg/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Public-Plex-Share",Ibiza Global TV (Public-Plex-Share) (US) (English)
+https://www.youtube.com/watch?v=-vZplj-oeQE
+
+#EXTINF:0 tvg-name="retro tv" tvg-language="English" tvg-country="US" tvg-id="retro tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSja-HqiFUC1lAklMOXByDa83g-zOi6t3U8ErmNhk3l9qkgaq-jPONVlDQ" group-title="Public-RandomAirTime 24/7",retro tv (Public-RandomAirTime 24/7) (US) (English)
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+
+#EXTINF:0 tvg-name="The Seventh Dimension" tvg-language="English" tvg-country="US" tvg-id="The Seventh Dimension" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGCsVuiPHM_Mb22a8dfFclPGbjqS8-cX0QEOCkYxtukp6vKqqE07S_Gw" group-title="Public-OnDemandMovies",The Seventh Dimension (Public-OnDemandMovies) (US) (English)
+http://cdnvod.setv.ca/hls/The.Seventh.Dimension.2009.BRRip.XviD.MP3-RARBG.mp4/master.m3u8
+
+#EXTINF:0 tvg-name="Hallmark Movies and Mysteries" tvg-language="English" tvg-country="US" tvg-id="Hallmark Movies and Mysteries" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1AjXM7mLsmc430_xgwLm5AEghL8qCf_CzjU68HOn08YIme1OLSiQ-4gQ" group-title="Public-Entertainment",Hallmark Movies and Mysteries (Public-Entertainment) (US) (English)
+http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3053348551~acl=/*~hmac=592bc88702cf4f549f6fa1233adcf78fdff0209e062d72a244dce61650291d26
+
+#EXTINF:0 tvg-name="CGTN ENGLISH" tvg-language="English" tvg-country="US" tvg-id="CGTN ENGLISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6D8mq9hgbInLYkLjIWQBZwzIIr_qt33yskb-3HEAhByCeVNYstB2QoRg" group-title="Public-News",CGTN ENGLISH (Public-News) (US) (English)
+http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:0 tvg-name="Animal Planet" tvg-language="English" tvg-country="US" tvg-id="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcCsbBABBOieLMzZMErtOHkLUsXrmYi0Evm3WYbaB6PtgM7UHcLxqkJd8" group-title="Public-Documentary",Animal Planet (Public-Documentary) (US) (English)
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+
+#EXTINF:0 tvg-name="Olympic Channel" tvg-language="English" tvg-country="US" tvg-id="Olympic Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SFMKXjYChbU4X_3jkBlNYdiyxERzpqFVbTfPRGXENNRtdS664JIrJw" group-title="Public-Sports",Olympic Channel (Public-Sports) (US) (English)
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+
+#EXTINF:0 tvg-name="NASA TV" tvg-language="English" tvg-country="US" tvg-id="NASA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYf2F247ycfg8ESFQRVZi5pOGHLB0wknu_7YMq1XgrBC1sVUvBtoInw" group-title="Public-News",NASA TV (Public-News) (US) (English)
+rtmp://mycompany.com/vod/mp4:mycoolvideo.mov
+
+#EXTINF:0 tvg-name="Nasa TV" tvg-language="English" tvg-country="US" tvg-id="Nasa TV" tvg-logo="http://cdn-img.easyicon.net/png/11264/1126483.gif" group-title="Public-Plex-Share",Nasa TV (Public-Plex-Share) (US) (English)
+https://www.youtube.com/watch?v=wwMDvPCGeE0
+
+#EXTINF:0 tvg-name="Cartoon Network" tvg-language="English" tvg-country="US" tvg-id="Cartoon Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd2AM38CATVxLdRqAxZXiUJJnpfKP_K3t8hIxufTnJnBfa8sbaRdSQYQ" group-title="Public-Family",Cartoon Network (Public-Family) (US) (English)
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD28L720P/chunklist_b700000.m3u8
+
+#EXTINF:0 tvg-name="Charge TV" tvg-language="English" tvg-country="US" tvg-id="Charge TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_XRyFqkJk-2aq9mb8X5sE39ko3RdRKlrt9Le8f-WL7CaZVJgF34YU5s" group-title="Public-Entertainment",Charge TV (Public-Entertainment) (US) (English)
+http://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp=1614631202&rn=1397218886&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad._debug=CHARGE_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=93c3cd62408432812d38befe6232467f21a3c5d84216e733bac71bacedd904f6
+
+#EXTINF:0 tvg-name="VH1" tvg-language="English" tvg-country="US" tvg-id="VH1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNxpzMgZMILPpvmdKccMSeGntdV3xR7RCiCzVEFKQ-6m_SDIcNXPs4w0U" group-title="Public-Entertainment",VH1 (Public-Entertainment) (US) (English)
+http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+
+#EXTINF:0 tvg-name="PBS Kids" tvg-language="English" tvg-country="US" tvg-id="PBS Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdqnqGxUudF8aHYlABgTH4dnMqRQjO65v_KANaxAW_FOy6w0BMXGeATM" group-title="Public-Family",PBS Kids (Public-Family) (US) (English)
+https://live-cdn.pbskids.org/out/u/aim/wtvs_3.m3u8
+
+#EXTINF:0 tvg-name="WTVD 11 Eyewitness News" tvg-language="English" tvg-country="US" tvg-id="WTVD 11 Eyewitness News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEZG0IzlLEI65-IguirR2GxnbXg8wSQi6JTD7yFHK5fl94BiYjOGWKbQ" group-title="Public-News",WTVD 11 Eyewitness News (Public-News) (US) (English)
+https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/WTVDwatch.m3u8?tc=1&exp=1514479089561&rn=3287.580974064667&ct=c&oid=f05837c508c44712aa7129d531f7dbe6&eid=WTVDwatch&ad=watchwtvdlive&ad.kv=station%2Cwtvd&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=ccacd8ab1274be3a5ea8d34266948b74df3029549cabac317c04b5c88c0e49ad
+
+#EXTINF:0 tvg-name="Better Life TV" tvg-language="English" tvg-country="US" tvg-id="Better Life TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThtlg8hzIthmh_GTMKRWOQk8_TeUjCgzKBlZcp89oJ1gF6_CRp2jRjOg" group-title="Public-Entertainment",Better Life TV (Public-Entertainment) (US) (English)
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+
+#EXTINF:0 tvg-name="Better Health TV" tvg-language="English" tvg-country="US" tvg-id="Better Health TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS56OMh_bxI5dkpl1nsV2JokwBOihmAzZxm83ZSDWoPsjnpugkYVraJGA" group-title="Public-Entertainment",Better Health TV (Public-Entertainment) (US) (English)
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+
+#EXTINF:0 tvg-name="Better LifeNature Channel" tvg-language="English" tvg-country="US" tvg-id="Better LifeNature Channel" tvg-logo="http://betterlifetv.tv/media/Images/Stream%20Nature%20Channel%204.png" group-title="Public-Entertainment",Better LifeNature Channel (Public-Entertainment) (US) (English)
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+
+#EXTINF:0 tvg-name="Vida Mejor TV" tvg-language="English" tvg-country="US" tvg-id="Vida Mejor TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrB5SICGNxhxnajQtFY4UeSNZLIPBWV86wv6__18V9qIFxXfGA9VADmQA" group-title="Public-Entertainment",Vida Mejor TV (Public-Entertainment) (US) (English)
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+
