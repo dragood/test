@@ -186,7 +186,7 @@ http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TOONAMI"  group-title="Kids",TOONAMI
 http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TOONAMI STREAM"  group-title="Kds",TOONAMI STREAM
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TOONAMI STREAM"  group-title="Kids",TOONAMI STREAM
 http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Foospel toon"  group-title="Kids",Foospel toon
