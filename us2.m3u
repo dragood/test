@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="Movies",
+#EXTINF:-1 group-title="Movies", Movies
 
 #EXTINF:-1,FOX ACTION
 http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -68,7 +68,7 @@ http://217.182.192.226:20000/live/karl123/456/207.ts
 #EXTINF:-1,MOVIES RAI
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-#EXTINF:-1 group-title="Regular TV",
+#EXTINF:-1 group-title="Regular TV", TV
 
 #EXTINF:-1,KTV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
@@ -128,7 +128,7 @@ http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(03)/index.m3u8
 #EXTINF:-1,NICK GO
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",
+#EXTINF:-1 group-title="Sports", Sports
 
 #EXTINF:-1,FOX racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
@@ -151,7 +151,7 @@ http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8
 #EXTINF:-1,BOX NATION
 http://92.42.110.150:25461/live/rugby101/h8HSCrj260/672.m3u8
 
-#EXTINF:-1 group-title="News",
+#EXTINF:-1 group-title="News", News
 
 #EXTINF:-1,CTV NEWS
 http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
@@ -159,7 +159,7 @@ http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
 #EXTINF:-1,FOX NEWS
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
-#EXTINF:-1 group-title="Kids",
+#EXTINF:-1 group-title="Kids", Kids
 
 #EXTINF:-1,DISNEY JUNIOR HD
 http://92.42.110.150:25461/live/rugby101/h8HSCrj260/644.m3u8
@@ -188,7 +188,7 @@ http://live-cdn.pbskids.org/out/u/est.m3u8
 #EXTINF:-1,MY KIDS
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
-#EXTINF:-1 group-title="Anime",
+#EXTINF:-1 group-title="Anime", Anime
 
 #EXTINF:-1,ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
@@ -220,7 +220,7 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
 #EXTINF:-1,NEW WWF JAPAN
 https://aka-amd-njpwworld-hls-live.akamaized.net/hls/video/njpw/njpw_channel01_3/chunklist_DVR.m3u8
 
-#EXTINF:-1 group-title="Science",
+#EXTINF:-1 group-title="Science", Science
 
 #EXTINF:-1,NASA
 http://media4.smc-host.com:1935/ctvchannel.tv/ctv.smil/playlist.m3u8
@@ -261,7 +261,7 @@ http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Hea
 #EXTINF:-1,DISCOVERY Sciene
 http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
 
-#EXTINF:-1 group-title="Other",
+#EXTINF:-1 group-title="Other", Other
 
 #EXTINF:-1,KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
