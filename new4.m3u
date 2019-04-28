@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,ATV
+https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://158.69.54.145:8000/livestream/54_.m3u8?md5=4UN3mC5k6I9PjZPPsqQsAA&expires=1556420835
+#EXTINF:-1,ESPN 2
+http://158.69.54.145:8000/livestream/6_.m3u8?md5=_sXBx1mP30irdc5DBbKaPw&expires=1556421086
+#EXTINF:-1,ESPN 3
+http://158.69.54.145:8000/livestream/7_.m3u8?md5=TZKqFYKf8SH5KBErim0bcw&expires=1556421233
+#EXTINF:-1,DIRECTV
+http://23.237.22.207/livestream/directv.m3u8?token=h1ZKhIcvMkvUwDwdrfhYwg&expires=1556414277
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://158.69.54.145:8000/livestream/59_.m3u8?md5=JtIvsP8rOD2t_7aWTJzuYw&expires=1556421763
+#EXTINF:-1,CARTOON NETWORK
+http://158.69.54.145:8000/livestream/49_.m3u8?md5=88RvEupOSTYOcnoENkOqbg&expires=1556421902
+#EXTINF:-1,HBO FAMILY
+http://158.69.54.145:8000/livestream/63_.m3u8?md5=V3oAQVvtj3aBhuI3RJARSw&expires=1556422069
+#EXTINF:-1,CINEMAX
+http://158.69.54.145:8000/livestream/21_.m3u8?md5=BV3EcNvaLI1hT7V5kX8DTg&expires=1556422184
+#EXTINF:-1,TNT
+https://pico16.pedromo.me/live/tntlatino/index.m3u8?token=iftQDv0c_z61cK7eWxp7SA&expires=1556487233
+#EXTINF:-1,FOX
+https://pico16.pedromo.me/live/tntlatino/index.m3u8?token=gbu-ZAoM2QA8l8YUb-Ak9g&expires=1556487535
+#EXTINF:-1,FOX ACTION
+https://petopa151.caraponi.me/live/foxaction/index.m3u8?token=AaMXnGjUin33UR9CoD1tBw&expires=1556487666
+#EXTINF:-1,HBO LATINO
+https://petopa152.caraponi.me/live/hbolatino/index.m3u8?token=jBnedD9ga91M49xxne0HJA&expires=1556487732
+#EXTINF:-1,AZTECA 13
+https://pico12.pedromo.me/live/azteca13/index.m3u8?token=DyIj2Ml3cHmcLHkDCitGHA&expires=1556487859
+#EXTINF:-1, AZTECA UNO
+https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/bf0522a9-9e17-44d4-9330-b7751571cb98:CHS/variant/0af32b8736be2912b0795aeebebc21e9/bandwidth/1170400.m3u8
+#EXTINF:-1,NAT GEO WILD
+https://grifo3.mitopo.me/live/nationalwild/index.m3u8?token=PiFlOdxOHbk02ym6uKmTQw&expires=1556489446
+#EXTINF:-1,NAT GEO
+http://158.69.54.145:8000/livestream/59_.m3u8?md5=6CQDROvtM_uHNf186raOFA&expires=1556425475
+#EXTINF:-1,NAT GEO WILD 2
+https://grifo3.mitopo.me/live/nationalwild/index.m3u8?token=nxXy-i6zHIh2s8bIcl_C2Q&expires=1556490734
+#EXTINF:-1,HISTRY CHANNEL
+https://grifo8.mitopo.me/live/historia/index.m3u8?token=aaAPLKxHrc3Zv69ssLSkhQ&expires=1556490841
+#EXTINF:-1,FM HOT
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+#EXTINF:-1,TNT
+http://tvpremiumhd.club/lista-gratuita/183027/tv/live.php?id=2592
+#EXTINF:-1,TNT SERIES
+http://tvpremiumhd.club/lista-gratuita/183027/tv/live.php?id=2591
+#EXTINF:-1,FOX ACTION
+http://tvpremiumhd.club/lista-gratuita/183027/tv/live.php?id=2722
+#EXTINF:-1,FOX FAMILY
+http://tvpremiumhd.club/lista-gratuita/183027/tv/live.php?id=2723
