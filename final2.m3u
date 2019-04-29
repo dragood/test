@@ -289,4 +289,4 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="KTLA"  group-title="News",KTLA
-api.new.livestream.com/accounts/6140873/events/2549324/broadcasts/190574024.m3u8?dw=80&hdnea=st=1556512520~exp=1556514320~acl=/i/6140873_2549324_lsi46nv9hc1krp9tc7s_1@688952/*~hmac=8f10fb261340292a8f971e879cc4d152bb56eff6ffefa7e47b5663cabadbb3f6
+http://livestream-f.akamaihd.net/i/6140873_2549324_lsi46nv9hc1krp9tc7s_1@688952/index_2320_av-p.m3u8?sd=4&dw=80&set-segment-duration=responsive&rebase=on&hdntl=exp=1556599112~acl=%2fi%2f6140873_2549324_lsi46nv9hc1krp9tc7s_1%40688952%2f*~data=hdntl~hmac=f7c42a63ea63f608157718265867a45d1a6bcaf9c29ce9cd337eec3e578a9891
