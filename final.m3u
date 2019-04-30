@@ -293,3 +293,6 @@ https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8
  
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Planet" group-title="Science",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN" group-title="TV",CNN
+http://80.80.160.168/live/1/live.m3u8
