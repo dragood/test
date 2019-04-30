@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nessma"  group-title="Arabic",Nessma
-http://162.212.176.107:1935/nessma/globaltv-nessma.stream/HasBahCa.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hannibal"  group-title="Arabic",Hannibal
+http://iptv.mecccam.com:8010/live/Andre/Andre/7224.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Zaytouna TV"  group-title="Arabic",Al Zaytouna TV
 http://wowzacontrol.com:1935/8088/8088/chunklist_w263616442.m3u8?v=533902401
