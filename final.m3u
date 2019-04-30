@@ -27,11 +27,8 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOLLYWOOD SWITCH"  group-title="TV",HOLLYWOOD SWITCH
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WOWOW MOVIES"  group-title="Movies",WOWOW MOVIES
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOVIES"  group-title="Movies",WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KTV 1"  group-title="TV",KTV 1
-https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="TV",AMC
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
@@ -42,20 +39,8 @@ http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="REALITY TV"  group-title="TV",REALITY TV
 http://aldirect.hls.huya.com/huyalive/29169025-2686221528-11537233612571148288-2847687610-10057-A-1523932939-1_1200.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBTV 17"  group-title="TV",CBTV 17
-https://streaminglibrary.iwcc.edu/iwtv/iwtv/chunklist_w526205618.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PLUTO TV"  group-title="TV",PLUTO TV
-http://stitcher.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY NATURE"  group-title="Science",DISNEY NATURE
 http://1290922571.rsc.cdn77.org/vodDisk3/movies/tr/documentary/DisneynatureAfrikaKedileri.mp4/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA NETWORK"  group-title="TV",USA NETWORK
-https://www.streamlive.to/view/38768/USA-Network-(HD)parseUrl=1
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX COMEDY"  group-title="TV",FOX COMEDY
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX racing"  group-title="Sports",FOX racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
@@ -134,3 +119,12 @@ http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E" group-title="TV",A&E
 http://195.181.162.108:8880/live/caio.helsinki/ch4545/1839.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT HD" group-title="TV",TNT HD
+http://denver.streamlive.to/ios/7uz4als3nigi0j3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NDc6MjUgQU0maGFzaF92YWx1ZT1DRGtDQnVXSnpIby9QNFVCTmpYSXJ3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA Network" group-title="TV",USA Network
+http://denver.streamlive.to/ios/h5eovaj1jeegluq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NDg6NDcgQU0maGFzaF92YWx1ZT03U3J5Ri9HVGR5M1kyc0hha3ZyZENnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSNBC" group-title="TV",MSNBC
+http://denver.streamlive.to/ios/1341ujtliqndod8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NDk6MzMgQU0maGFzaF92YWx1ZT1vbk5lNmpDRTllWVhvSmRONW9panRBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
