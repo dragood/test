@@ -141,7 +141,7 @@ http://media4.smc-host.com:1935/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TECTV"  group-title="Science",TECTV
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8?fluxustv.m3u
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat-Geo"  group-title="Unsorted",Nat-Geo
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat-Geo"  group-title="Science",Nat-Geo
 http://m.rocketmediaworld.com/view/68872/National_Geographic_%28HD%29
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY"  group-title="Science",DISCOVERY
@@ -162,8 +162,5 @@ http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN" group-title="Sports",ESPN
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN 2" group-title="Sports",ESPN 2
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Direct TV Sports+" group-title="Sports",Direct TV Sports+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX ACTIONMAX" group-title="Movies",CINEMAX ACTIONMAX
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1800.m3u8
