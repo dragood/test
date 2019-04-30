@@ -13,7 +13,7 @@ http://wowzacontrol.com:1935/8088/8088/chunklist_w263616442.m3u8?v=533902401
 http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO"  group-title="US",HBO
-http://denver.streamlive.to/ios/z28ie9oqoku4qoy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NDA6MjIgQU0maGFzaF92YWx1ZT1abytud04vZDQvc09zb2hmK3dkL21nPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+http://denver.streamlive.to/ios/z28ie9oqoku4qoy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6MzM6MzYgUE0maGFzaF92YWx1ZT0vbUZ5NmthdGlGVVRPa2t0TXdYeWpRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="US",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
@@ -55,8 +55,7 @@ http://1290922571.rsc.cdn77.org/vodDisk3/movies/tr/documentary/DisneynatureAfrik
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT SPORT"  group-title="US",TNT SPORT
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0166
-
+http://denver.streamlive.to/ios/7uz4als3nigi0j3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6MjQ6MzIgUE0maGFzaF92YWx1ZT10WFZQaHcrNFN0WWthdEZRbHhsZDNRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORT"  group-title="US",FOX SPORT
 http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
@@ -94,22 +93,19 @@ http://denver.streamlive.to/ios/qzsfigd1y3bgbhs/playlist.m3u8?wmsAuthSign=c2Vydm
 http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428,Discovery
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC"  group-title="US",ABC
-https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
+http://denver.streamlive.to/ios/nz7l9vc5nv1og7b/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6MjU6MDIgUE0maGFzaF92YWx1ZT1nbEtZZWhwMWtPbGlyRXlsZlQyS3hnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS"  group-title="US",CBS
-http://denver.streamlive.to/ios/vp4q2gonwzh2dku/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDg6MjY6MjkgUE0maGFzaF92YWx1ZT1ycmppNVFmY2lhNERXZkQrQ0d5SU9nPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+http://denver.streamlive.to/ios/vp4q2gonwzh2dku/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6Mjc6MzggUE0maGFzaF92YWx1ZT1Jd3QyYkVtUTZFeGtKZ0FiK0hJM3ZnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="US",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN"  group-title="US",CNN
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN"  group-title="US",ESPN
-http://80.80.160.168/live/6/live.m3u8
+http://denver.streamlive.to/ios/rjxo8hz17q9waiq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6MjY6NDcgUE0maGFzaF92YWx1ZT1kNEVnVXBEeWluSGRETUVZbEdUblVnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN"  group-title="US",ESPN
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC"  group-title="US",NBC
-http://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
+http://denver.streamlive.to/ios/kjgkefh6la1di6g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6MjU6MjYgUE0maGFzaF92YWx1ZT1vanFBcTJwR0I0WDFpQTNHanZBZ21RPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BET"  group-title="US",BET
 http://espn.tmedia.me/cache/bet.m3u8
@@ -133,7 +129,7 @@ http://denver.streamlive.to/ios/7uz4als3nigi0j3/playlist.m3u8?wmsAuthSign=c2Vydm
 http://denver.streamlive.to/ios/h5eovaj1jeegluq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NDg6NDcgQU0maGFzaF92YWx1ZT03U3J5Ri9HVGR5M1kyc0hha3ZyZENnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSNBC"  group-title="US",MSNBC
-http://denver.streamlive.to/ios/1341ujtliqndod8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NDk6MzMgQU0maGFzaF92YWx1ZT1vbk5lNmpDRTllWVhvSmRONW9panRBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+http://denver.streamlive.to/ios/1341ujtliqndod8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6MjM6NTQgUE0maGFzaF92YWx1ZT1kQndSa0k4dVlKc1VRZGJwMnZTdmpRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC HD"  group-title="US",NBC HD
 http://denver.streamlive.to/ios/kjgkefh6la1di6g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTE6NDUgQU0maGFzaF92YWx1ZT1XVzcwMFp6WWZpOW5WTFNiczdKU053PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
@@ -142,7 +138,7 @@ http://denver.streamlive.to/ios/kjgkefh6la1di6g/playlist.m3u8?wmsAuthSign=c2Vydm
 http://denver.streamlive.to/ios/yjma618cibkqxeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTM6MzAgQU0maGFzaF92YWx1ZT16K1VqUTNLNlZSYVZMZjdEYzhnYmZBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E"  group-title="US",A&E
-http://denver.streamlive.to/ios/tuc280rbycwnsvs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTQ6MjEgQU0maGFzaF92YWx1ZT01VGxidHRQNEVTWVI2d21pWTFRMG1nPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+http://denver.streamlive.to/ios/tuc280rbycwnsvs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6MzE6MTAgUE0maGFzaF92YWx1ZT1Fd2s1dUtKR3krdUh3NW9mbm1RUDd3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HGTV"  group-title="US",HGTV
 http://denver.streamlive.to/ios/gj65q2rg18tpmut/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTU6MzggQU0maGFzaF92YWx1ZT1KRXVCK0ZKb3dxSmhYVmFtaTQxcFV3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
@@ -157,10 +153,22 @@ http://denver.streamlive.to/ios/oeiigxxv1gbeqq9/playlist.m3u8?wmsAuthSign=c2Vydm
 http://denver.streamlive.to/ios/9l41fcr1sgmclej/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDM6MDA6MzEgQU0maGFzaF92YWx1ZT1tM085L25mK0ZHMDZMSzhoazFtbmZnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TBS"  group-title="US",TBS
-http://denver.streamlive.to/ios/eg5v0vdj33ls27r/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDM6MDI6NTYgQU0maGFzaF92YWx1ZT1hc29SOEl3U0JkOXJDSnFwaXNscGVRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+http://denver.streamlive.to/ios/eg5v0vdj33ls27r/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6MzA6MjcgUE0maGFzaF92YWx1ZT1NZ21zaUpSQVJ0M2FEbGY4cFlpaC9nPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TruTV"  group-title="US",TruTV
-http://denver.streamlive.to/ios/uhnr4161ybioa5w/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDM6MDU6MDAgQU0maGFzaF92YWx1ZT1hQmVyVmlLOXB6WUtoV3hPUUg5UEl3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+http://denver.streamlive.to/ios/uhnr4161ybioa5w/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6MzE6MDggUE0maGFzaF92YWx1ZT1sb29ZRGdPbXNlaExtbjFEZXlvUFh3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX11"  group-title="US",FOX11
 http://livestream-f.akamaihd.net/i/6140873_2549324_lsi46nv9hc1krp9tc7s_1@688952/index_2320_av-p.m3u8?sd=4&dw=80&set-segment-duration=responsive&rebase=on&hdntl=exp=1556599112~acl=%2fi%2f6140873_2549324_lsi46nv9hc1krp9tc7s_1%40688952%2f*~data=hdntl~hmac=f7c42a63ea63f608157718265867a45d1a6bcaf9c29ce9cd337eec3e578a9891
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX Network"  group-title="US",FOX Network
+http://denver.streamlive.to/ios/h5eovaj1jeegluq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6Mjg6NTYgUE0maGFzaF92YWx1ZT1ZR3RHSUlsdGtTbWpIYlJYVHRndG13PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FX"  group-title="US",FX
+http://denver.streamlive.to/ios/ru031zebcat0lio/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6MzE6NTIgUE0maGFzaF92YWx1ZT1rTEUxT2l5cEZnQWhuK1lzaEFxN1NRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="CW" tvg-name="FX"  group-title="US",CW
+http://denver.streamlive.to/ios/fvksu1sp51ijtyd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6MzI6NDIgUE0maGFzaF92YWx1ZT04djhzbVVmSm9jY1ZQU3I1WnZJSG9BPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SyFy"  group-title="US",SyFy
+http://denver.streamlive.to/ios/x7uii7mll2b7lh4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDk6MzQ6MTQgUE0maGFzaF92YWx1ZT12R3JuQlFpVXBZTHV0SlpQYy9mTVVRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
