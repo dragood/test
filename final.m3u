@@ -164,3 +164,9 @@ http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC" group-title="TV",NBC
 http://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BET" group-title="TV",BET
+http://espn.tmedia.me/cache/bet.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Comedy Central" group-title="TV",Comedy Central
+http://espn.tmedia.me/cache/cc.m3u8
