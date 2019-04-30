@@ -162,5 +162,5 @@ http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN" group-title="Sports",ESPN
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX ACTIONMAX" group-title="Movies",CINEMAX ACTIONMAX
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/U9xrqi18H8/85536.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC" group-title="TV",NBC
+http://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
