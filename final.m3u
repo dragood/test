@@ -3,6 +3,9 @@
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nessma TV"  group-title="Arabic",Nessma TV
 http://109.236.92.216:9090/nessma/tracks-v1a1/mono.m3u8?v=1634807191
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Wataniya TV"  group-title="Arabic",Al mWataniya TV
+http://denver.streamliv.to/ios/vp4q2gonwzh2dku/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDg6MjY6MjkgUE0maGFzaF92YWx1ZT1ycmppNVFmY2lhNERXZkQrQ0d5SU9nPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Zaytouna TV"  group-title="Arabic",Al Zaytouna TV
 http://wowzacontrol.com:1935/8088/8088/chunklist_w263616442.m3u8?v=533902401
 
