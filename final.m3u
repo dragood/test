@@ -27,12 +27,11 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOLLYWOOD SWITCH"  group-title="TV",HOLLYWOOD SWITCH
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOVIES"  group-title="Movies",WOWOW MOVIES
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOVIES"  group-title="Movies",MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="TV",AMC
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMC HD"  group-title="TV",AMC HD
+http://denver.streamlive.to/ios/z4cxm7zlfyqs65m/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTQ6NTIgQU0maGFzaF92YWx1ZT0vQ1pyMm04WFl6NnEzWmFBeDF5QVZBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WGN"  group-title="TV",WGN
 http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
 
@@ -78,16 +77,15 @@ http://media4.smc-host.com:1935/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TECTV"  group-title="Science",TECTV
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8?fluxustv.m3u
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat-Geo"  group-title="Science",Nat-Geo
-http://m.rocketmediaworld.com/view/68872/National_Geographic_%28HD%29
-
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Science",National Geographic
+http://denver.streamlive.to/ios/qzsfigd1y3bgbhs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTc6MTAgQU0maGFzaF92YWx1ZT1USm80NUhnWVY1c2x3c2RkSFVBUTVRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY"  group-title="Science",DISCOVERY
 http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428,Discovery
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC"  group-title="TV",ABC
 https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
  
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS NEWS" group-title="News",CBS NEWS
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NEWS" group-title="News",CBS NEWS
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Planet" group-title="Science",Animal Planet
@@ -117,9 +115,6 @@ http://espn.tmedia.me/cache/espn2_540.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cooking Channel" group-title="TV",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E" group-title="TV",A&E
-http://195.181.162.108:8880/live/caio.helsinki/ch4545/1839.ts
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT HD" group-title="TV",TNT HD
 http://denver.streamlive.to/ios/7uz4als3nigi0j3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NDc6MjUgQU0maGFzaF92YWx1ZT1DRGtDQnVXSnpIby9QNFVCTmpYSXJ3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
 
@@ -128,3 +123,36 @@ http://denver.streamlive.to/ios/h5eovaj1jeegluq/playlist.m3u8?wmsAuthSign=c2Vydm
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSNBC" group-title="TV",MSNBC
 http://denver.streamlive.to/ios/1341ujtliqndod8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NDk6MzMgQU0maGFzaF92YWx1ZT1vbk5lNmpDRTllWVhvSmRONW9panRBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC HD" group-title="TV",NBC HD
+http://denver.streamlive.to/ios/kjgkefh6la1di6g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTE6NDUgQU0maGFzaF92YWx1ZT1XVzcwMFp6WWZpOW5WTFNiczdKU053PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Investigation Discovery" group-title="TV",Investigation Discovery
+http://denver.streamlive.to/ios/yjma618cibkqxeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTM6MzAgQU0maGFzaF92YWx1ZT16K1VqUTNLNlZSYVZMZjdEYzhnYmZBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E" group-title="TV",A&E
+http://denver.streamlive.to/ios/tuc280rbycwnsvs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTQ6MjEgQU0maGFzaF92YWx1ZT01VGxidHRQNEVTWVI2d21pWTFRMG1nPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HGTV" group-title="TV",HGTV
+http://denver.streamlive.to/ios/gj65q2rg18tpmut/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTU6MzggQU0maGFzaF92YWx1ZT1KRXVCK0ZKb3dxSmhYVmFtaTQxcFV3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS" group-title="TV",CBS
+http://denver.streamlive.to/ios/vp4q2gonwzh2dku/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTY6MDggQU0maGFzaF92YWx1ZT0zaVlpa3hKQkE4eGI1VU5nRERRSUtBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney XD" group-title="TV",Disney XD
+http://denver.streamlive.to/ios/9kzz2h2p7e5ejgy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTg6NTkgQU0maGFzaF92YWx1ZT1HN0o1TXh2dlp4MlpDK1FvTUdPb1JRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VH1 HD" group-title="TV",VH1 HD
+http://denver.streamlive.to/ios/oeiigxxv1gbeqq9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDI6NTk6NDkgQU0maGFzaF92YWx1ZT1yQnNHUUtYSTdYdU81NUJrUlMrV0hRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cartoon Network" group-title="TV",Cartoon Network
+http://denver.streamlive.to/ios/9l41fcr1sgmclej/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDM6MDA6MzEgQU0maGFzaF92YWx1ZT1tM085L25mK0ZHMDZMSzhoazFtbmZnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TBS" group-title="TV",TBS
+http://denver.streamlive.to/ios/eg5v0vdj33ls27r/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDM6MDI6NTYgQU0maGFzaF92YWx1ZT1hc29SOEl3U0JkOXJDSnFwaXNscGVRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TruTV" group-title="TV",TruTV
+http://denver.streamlive.to/ios/uhnr4161ybioa5w/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE5IDM6MDU6MDAgQU0maGFzaF92YWx1ZT1hQmVyVmlLOXB6WUtoV3hPUUg5UEl3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpcD05Ny4xMTMuNDUuMTUx
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX11"  group-title="News",FOX11
+http://livestream-f.akamaihd.net/i/6140873_2549324_lsi46nv9hc1krp9tc7s_1@688952/index_2320_av-p.m3u8?sd=4&dw=80&set-segment-duration=responsive&rebase=on&hdntl=exp=1556599112~acl=%2fi%2f6140873_2549324_lsi46nv9hc1krp9tc7s_1%40688952%2f*~data=hdntl~hmac=f7c42a63ea63f608157718265867a45d1a6bcaf9c29ce9cd337eec3e578a9891
